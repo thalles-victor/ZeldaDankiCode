@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Thalles Víctor\eclipse-workspace\Zelda versão 2\.metadata\.plugins\org.eclipse.jdt.core
+1248545562.index
+2483520480.index
+2710390113.index
+3460068445.index

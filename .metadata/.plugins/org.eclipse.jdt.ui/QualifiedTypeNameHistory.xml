@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.awt.Dimension"/>
+    <fullyQualifiedTypeName name="java.awt.Image"/>
+    <fullyQualifiedTypeName name="java.awt.image.BufferStrategy"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.wlaking.Entities.Entity"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.walking.Graphics.spriteSheet"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="java.awt.event.KeyListener"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.awt.Canvas"/>
+    <fullyQualifiedTypeName name="javax.imageio.ImageIO"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.word.Word"/>
+    <fullyQualifiedTypeName name="java.awt.image.BufferedImage"/>
+    <fullyQualifiedTypeName name="com.walking.Entities.Entity"/>
+    <fullyQualifiedTypeName name="com.walking.Entities.Weapon"/>
+    <fullyQualifiedTypeName name="com.walking.Entities.Bullet"/>
+    <fullyQualifiedTypeName name="com.walking.Entities.Life"/>
+    <fullyQualifiedTypeName name="com.walking.Entities.Enemy"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.awt.Rectangle"/>
+    <fullyQualifiedTypeName name="java.awt.event.KeyEvent"/>
+    <fullyQualifiedTypeName name="com.walking.Entities.Ammo"/>
+    <fullyQualifiedTypeName name="java.awt.Graphics"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="com.walking.Entities.BulletShoot"/>
+    <fullyQualifiedTypeName name="java.awt.event.MouseListener"/>
+    <fullyQualifiedTypeName name="com.walking.world.Camera"/>
+    <fullyQualifiedTypeName name="com.walking.world.Tile"/>
+    <fullyQualifiedTypeName name="com.walking.world.World"/>
+    <fullyQualifiedTypeName name="com.walking.Entities.Player"/>
+    <fullyQualifiedTypeName name="com.walking.Graphics.UI"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.awt.Graphics2D"/>
+    <fullyQualifiedTypeName name="com.walking.main.Game"/>
+    <fullyQualifiedTypeName name="java.awt.Font"/>
+</qualifiedTypeNameHistroy>
